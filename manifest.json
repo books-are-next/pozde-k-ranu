@@ -1,0 +1,750 @@
+{
+  "author": "Karel Hlaváček",
+  "contenttype": "poetry",
+  "edition": "beletrie",
+  "identifier": "hlavacek-pozde-k-ranu-97f6440",
+  "languagecode": "cs",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Pozdě k ránu",
+  "revision": "97f6440",
+  "generatedAt": {
+    "date": "Wed Apr 13 2022 18:26:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649874382538
+  },
+  "documents": [
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0002.html",
+      "words": 38,
+      "chars": 203,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "section0001.html",
+      "next": "section0003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0003.html",
+      "words": 75,
+      "chars": 657,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 2,
+      "prev": "section0002.html",
+      "next": "section0004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0004.html",
+      "words": 10,
+      "chars": 54,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 3,
+      "prev": "section0003.html",
+      "next": "section0005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0005.html",
+      "words": 246,
+      "chars": 1614,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 4,
+      "prev": "section0004.html",
+      "next": "section0006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Pozdě k ránu",
+          "id": "pozdě-knbspránu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0006.html",
+      "words": 174,
+      "chars": 1017,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 5,
+      "prev": "section0005.html",
+      "next": "section0007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Svou violu jsem naladil co možno nejhlouběji",
+          "id": "svou-violu-jsem-naladil-conbspmožno-nejhlouběji",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0007.html",
+      "words": 100,
+      "chars": 607,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 6,
+      "prev": "section0006.html",
+      "next": "section0008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Podmořské pralesy se ani nezachvěly",
+          "id": "podmořské-pralesy-senbspani-nezachvěly",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0008.html",
+      "words": 79,
+      "chars": 424,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 7,
+      "prev": "section0007.html",
+      "next": "section0009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Impromptu",
+          "id": "impromptu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0009.html",
+      "words": 183,
+      "chars": 988,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 8,
+      "prev": "section0008.html",
+      "next": "section0010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Za noci březnové",
+          "id": "zanbspnoci-březnové",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0010.html",
+      "words": 96,
+      "chars": 509,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 9,
+      "prev": "section0009.html",
+      "next": "section0011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Ironie",
+          "id": "ironie",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0011.html",
+      "words": 125,
+      "chars": 713,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 10,
+      "prev": "section0010.html",
+      "next": "section0012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Anaemie",
+          "id": "anaemie",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0012.html",
+      "words": 124,
+      "chars": 696,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 11,
+      "prev": "section0011.html",
+      "next": "section0013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Sonet",
+          "id": "sonet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0013.html",
+      "words": 289,
+      "chars": 1876,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 12,
+      "prev": "section0012.html",
+      "next": "section0014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Má Ithaka",
+          "id": "mánbspithaka",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0014.html",
+      "words": 245,
+      "chars": 1637,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 13,
+      "prev": "section0013.html",
+      "next": "section0015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Byla zakoupena Medicejskými…",
+          "id": "byla-zakoupena-medicejskými",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0015.html",
+      "words": 217,
+      "chars": 1473,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 14,
+      "prev": "section0014.html",
+      "next": "section0016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Pseudojaponerie",
+          "id": "pseudojaponerie",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0016.html",
+      "words": 391,
+      "chars": 2472,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 15,
+      "prev": "section0015.html",
+      "next": "section0017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Přišla",
+          "id": "přišla",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0017.html",
+      "words": 103,
+      "chars": 552,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 16,
+      "prev": "section0016.html",
+      "next": "section0018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Dva hlasy",
+          "id": "dva-hlasy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0018.html",
+      "words": 131,
+      "chars": 754,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 17,
+      "prev": "section0017.html",
+      "next": "section0019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Smutný večer",
+          "id": "smutný-večer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0019.html",
+      "words": 162,
+      "chars": 867,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 18,
+      "prev": "section0018.html",
+      "next": "section0020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "V ustrašení",
+          "id": "vnbspustrašení",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0020.html",
+      "words": 106,
+      "chars": 570,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 19,
+      "prev": "section0019.html",
+      "next": "section0021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Pršelo v noci",
+          "id": "pršelo-vnbspnoci",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0021.html",
+      "words": 75,
+      "chars": 379,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 20,
+      "prev": "section0020.html",
+      "next": "section0022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Záhada",
+          "id": "záhada",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0022.html",
+      "words": 107,
+      "chars": 532,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 21,
+      "prev": "section0021.html",
+      "next": "section0023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Měl něhu jejich kroků…",
+          "id": "měl-něhu-jejich-kroků",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0023.html",
+      "words": 98,
+      "chars": 542,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 22,
+      "prev": "section0022.html",
+      "next": "section0024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Modlitba",
+          "id": "modlitba",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0024.html",
+      "words": 1305,
+      "chars": 8539,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 23,
+      "prev": "section0023.html",
+      "next": "section0025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Subtilnost smutku",
+          "id": "subtilnost-smutku",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0025.html",
+      "words": 382,
+      "chars": 2306,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 24,
+      "prev": "section0024.html",
+      "next": "section0026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Upír",
+          "id": "upír",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0026.html",
+      "words": 47,
+      "chars": 264,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 25,
+      "prev": "section0025.html",
+      "next": "section0027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Rozkvetlý smutek",
+          "id": "rozkvetlý-smutek",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0027.html",
+      "words": 388,
+      "chars": 2432,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 26,
+      "prev": "section0026.html",
+      "next": "section0028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Rêverie",
+          "id": "rêverie",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdě k ránu",
+      "file": "section0028.html",
+      "words": 27,
+      "chars": 128,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 27,
+      "prev": "section0027.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 5331,
+      "chars": 32847,
+      "ideas": 454
+    },
+    "chapters": {
+      "words": 5323,
+      "chars": 32805,
+      "ideas": 449
+    }
+  }
+}

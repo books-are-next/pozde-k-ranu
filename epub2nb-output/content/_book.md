@@ -2,11 +2,16 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: poetry
   title: Pozdě k ránu
   identifier: urn:uuid:08a2d72c-b182-4a8a-b410-926960299960
   author: Karel Hlaváček
+  edition: beletrie
+  publisherShort: mkp
+  publisher: Městská knihovna v Praze
 readingOrder:
   - section0001.html
   - section0002.html
@@ -40,6 +45,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
