@@ -1,0 +1,241 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Pozdě k ránu",
+    "identifier": "urn:uuid:08a2d72c-b182-4a8a-b410-926960299960",
+    "author": "Karel Hlaváček",
+    "language": "cs",
+    "Sigil version": "0.4.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0028.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_pozde_k_ranu.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Pozdě k ránu",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "title": "Svou violu jsem naladil co možno nejhlouběji",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "title": "Podmořské pralesy se ani nezachvěly",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "title": "Impromptu",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "title": "Za noci březnové",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "title": "Ironie",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "title": "Anaemie",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "title": "Sonet",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "title": "Má Ithaka",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "title": "Byla zakoupena Medicejskými…",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "title": "Pseudojaponerie",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "title": "Přišla",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "title": "Dva hlasy",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "title": "Smutný večer",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "title": "V ustrašení",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "title": "Pršelo v noci",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "title": "Záhada",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "title": "Měl něhu jejich kroků…",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "title": "Modlitba",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "title": "Subtilnost smutku",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "title": "Upír",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "title": "Rozkvetlý smutek",
+      "href": "OEBPS/Text/Section0026.xhtml"
+    },
+    {
+      "title": "Rêverie",
+      "href": "OEBPS/Text/Section0027.xhtml"
+    }
+  ]
+}
