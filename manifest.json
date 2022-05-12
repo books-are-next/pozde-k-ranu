@@ -11,6 +11,7 @@
   "identifier": "hlavacek-pozde-k-ranu-0c2bd49",
   "revision": "0c2bd49",
   "readingOrder": [
+    "promo.html",
     "section0001.html",
     "section0002.html",
     "section0003.html",
@@ -41,10 +42,22 @@
     "section0028.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:43:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352183851
+    "date": "Thu May 12 2022 15:12:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652368333342
   },
   "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0001.html",
+      "toc": []
+    },
     {
       "title": "Pozdě k ránu",
       "file": "section0001.html",
@@ -52,8 +65,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 1,
+      "prev": "promo.html",
       "next": "section0002.html",
       "toc": [
         {
@@ -72,7 +85,7 @@
       "chars": 203,
       "ideas": 2,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "section0001.html",
       "next": "section0003.html",
       "toc": [
@@ -92,7 +105,7 @@
       "chars": 657,
       "ideas": 7,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "section0002.html",
       "next": "section0004.html",
       "toc": [
@@ -112,7 +125,7 @@
       "chars": 54,
       "ideas": 2,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "section0003.html",
       "next": "section0005.html",
       "toc": [
@@ -132,7 +145,7 @@
       "chars": 1614,
       "ideas": 2,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "section0004.html",
       "next": "section0006.html",
       "toc": [
@@ -159,7 +172,7 @@
       "chars": 1017,
       "ideas": 22,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "section0005.html",
       "next": "section0007.html",
       "toc": [
@@ -186,7 +199,7 @@
       "chars": 607,
       "ideas": 15,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "section0006.html",
       "next": "section0008.html",
       "toc": [
@@ -213,7 +226,7 @@
       "chars": 424,
       "ideas": 13,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "section0007.html",
       "next": "section0009.html",
       "toc": [
@@ -240,7 +253,7 @@
       "chars": 988,
       "ideas": 22,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "section0008.html",
       "next": "section0010.html",
       "toc": [
@@ -267,7 +280,7 @@
       "chars": 509,
       "ideas": 13,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "section0009.html",
       "next": "section0011.html",
       "toc": [
@@ -294,7 +307,7 @@
       "chars": 713,
       "ideas": 17,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "section0010.html",
       "next": "section0012.html",
       "toc": [
@@ -321,7 +334,7 @@
       "chars": 696,
       "ideas": 19,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "section0011.html",
       "next": "section0013.html",
       "toc": [
@@ -348,7 +361,7 @@
       "chars": 1876,
       "ideas": 5,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "section0012.html",
       "next": "section0014.html",
       "toc": [
@@ -375,7 +388,7 @@
       "chars": 1637,
       "ideas": 4,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "section0013.html",
       "next": "section0015.html",
       "toc": [
@@ -402,7 +415,7 @@
       "chars": 1473,
       "ideas": 3,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "section0014.html",
       "next": "section0016.html",
       "toc": [
@@ -429,7 +442,7 @@
       "chars": 2472,
       "ideas": 70,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "section0015.html",
       "next": "section0017.html",
       "toc": [
@@ -456,7 +469,7 @@
       "chars": 552,
       "ideas": 14,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "section0016.html",
       "next": "section0018.html",
       "toc": [
@@ -483,7 +496,7 @@
       "chars": 754,
       "ideas": 18,
       "role": "chapter",
-      "order": 17,
+      "order": 18,
       "prev": "section0017.html",
       "next": "section0019.html",
       "toc": [
@@ -510,7 +523,7 @@
       "chars": 867,
       "ideas": 22,
       "role": "chapter",
-      "order": 18,
+      "order": 19,
       "prev": "section0018.html",
       "next": "section0020.html",
       "toc": [
@@ -537,7 +550,7 @@
       "chars": 570,
       "ideas": 17,
       "role": "chapter",
-      "order": 19,
+      "order": 20,
       "prev": "section0019.html",
       "next": "section0021.html",
       "toc": [
@@ -564,7 +577,7 @@
       "chars": 379,
       "ideas": 12,
       "role": "chapter",
-      "order": 20,
+      "order": 21,
       "prev": "section0020.html",
       "next": "section0022.html",
       "toc": [
@@ -591,7 +604,7 @@
       "chars": 532,
       "ideas": 13,
       "role": "chapter",
-      "order": 21,
+      "order": 22,
       "prev": "section0021.html",
       "next": "section0023.html",
       "toc": [
@@ -618,7 +631,7 @@
       "chars": 542,
       "ideas": 17,
       "role": "chapter",
-      "order": 22,
+      "order": 23,
       "prev": "section0022.html",
       "next": "section0024.html",
       "toc": [
@@ -645,7 +658,7 @@
       "chars": 8539,
       "ideas": 30,
       "role": "chapter",
-      "order": 23,
+      "order": 24,
       "prev": "section0023.html",
       "next": "section0025.html",
       "toc": [
@@ -672,7 +685,7 @@
       "chars": 2306,
       "ideas": 60,
       "role": "chapter",
-      "order": 24,
+      "order": 25,
       "prev": "section0024.html",
       "next": "section0026.html",
       "toc": [
@@ -699,7 +712,7 @@
       "chars": 264,
       "ideas": 11,
       "role": "chapter",
-      "order": 25,
+      "order": 26,
       "prev": "section0025.html",
       "next": "section0027.html",
       "toc": [
@@ -726,7 +739,7 @@
       "chars": 2432,
       "ideas": 13,
       "role": "chapter",
-      "order": 26,
+      "order": 27,
       "prev": "section0026.html",
       "next": "section0028.html",
       "toc": [
@@ -753,7 +766,7 @@
       "chars": 128,
       "ideas": 6,
       "role": "chapter",
-      "order": 27,
+      "order": 28,
       "prev": "section0027.html",
       "next": null,
       "toc": [
