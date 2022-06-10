@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hlavacek-pozde-k-ranu-a07341a",
-  "revision": "a07341a",
+  "identifier": "hlavacek-pozde-k-ranu-a09ec79",
+  "revision": "a09ec79",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -42,8 +42,8 @@
     "section0028.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870729775
+    "date": "Fri Jun 10 2022 17:54:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883699616
   },
   "documents": [
     {
@@ -61,9 +61,9 @@
     {
       "title": "Pozdě k ránu",
       "file": "section0001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -782,14 +782,14 @@
   ],
   "totals": {
     "all": {
-      "words": 5331,
+      "words": 5332,
       "chars": 32847,
-      "ideas": 454
+      "ideas": 455
     },
     "chapters": {
-      "words": 5323,
+      "words": 5324,
       "chars": 32805,
-      "ideas": 449
+      "ideas": 450
     }
   }
 }

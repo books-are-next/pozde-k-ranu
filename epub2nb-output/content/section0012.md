@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Sonet
 
 Památce Édouarda Dubuse 
@@ -12,7 +14,9 @@ Au temps joli qui vit fleurir la Pompadour? 
 
 Quand les violons sont partis.
 
-  
+</section>
+
+<section>
 
 Tvé místo v herně Lásky prázdné zůstalo, 
 
@@ -41,3 +45,5 @@ ač karty rozdány k hře nové dávno jsou, 
 tvůj joviální abbé, schvácen nervosou, 
 
 se do zívání dal i s mladou markýzou…
+
+</section>

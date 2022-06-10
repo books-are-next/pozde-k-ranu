@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Rêverie
 
 Znám ještě mlčelivé roviny dalekých rozloh v zapadlých vévodstvích své duše, neznámé, neohraničené a zašeřelé od věků v podmračné, večerní šero agonie… 
@@ -27,3 +29,5 @@ K mému loži ho uveď a otevře laskavě dokořán všechna okna tajemné vůni
 A až odejdeš, soucitný Hosti, napojen černým vínem mých smutečních nálad, abys se snad nevrátil již – – – tož půjdu zas, psanec, v zapadlá vévodství své duše, zašeřelé od věků podmračným večerem agonie, a usednu vzrušen do černého obilí Skonejší, zapomenut všemi, pochopen jenom jedním… 
 
 Chvilkou lhostejně zazní tlumený chorál Bývalého odněkud z tajemných již dálek – chvílemi zavesluje vysoko nade mnou němé hejno černých volavek v tichých nárazech jižního větru – – – a já budu, Vetřelče, o tobě sníti…
+
+</section>

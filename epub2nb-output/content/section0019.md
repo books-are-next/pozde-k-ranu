@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # V ustrašení
 
 My ustrašeně šli tím sešeřelým územím, 
@@ -45,3 +47,5 @@ s tou obcí zasmušilých mlýnů větrných – 
 já k tomu důvěrně připojil glosu z Quixota, 
 
 a tmou zněl bázlivě náš ironický smích…
+
+</section>

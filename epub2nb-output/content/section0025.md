@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Upír
 
 Bylo to v jakési temné krajině 
@@ -110,7 +112,9 @@ se zlatou skvrnou měsíce nahoře kdesi za mraky, 
 
 dává se tichounce v let.
 
-  
+</section>
+
+<section>
 
 … A pozdě pak k ránu až vrací se zmámena 
 
@@ -123,3 +127,5 @@ jenž bídně provleče zase den v profaním hluku ulice, 
 jak bylo to v prokletém včerejšku 
 
 a bude ve zhnuseném zítřku…
+
+</section>

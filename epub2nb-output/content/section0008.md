@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Impromptu
 
 V podzimní šero, mlhou prosáklé, 
@@ -27,3 +29,5 @@ plá měsíc svitem lampy stažené, 
 a jeho kontura tak chorobně a mdle 
 
 se občas náhle zachví v řeky zrcadle.
+
+</section>

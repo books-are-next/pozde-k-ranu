@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Rozkvetlý smutek
 
 Do říše mořských pralesů 
@@ -23,3 +25,5 @@ až jeho sémě zasijí, 
 snad v lijáku slz palčivých 
 
 tam v sopránový vzkvete smích.
+
+</section>

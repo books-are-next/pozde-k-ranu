@@ -2,11 +2,15 @@
 contentType: poetry
 ---
 
+<section>
+
 # Smutný večer
 
 _Památce Paula Verlaina_
 
-  
+</section>
+
+<section>
 
 I já dnes, vasal nesmělý Tvých bledých nuancí, 
 
@@ -39,3 +43,5 @@ jen lesních viol smích a ironické hallali: 
 vše bude v něm, po čem's kdy zatoužil, co chtěl's kdy mít – 
 
 i delikátní smutek těch, již dlouho váhali…
+
+</section>

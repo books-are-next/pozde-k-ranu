@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Podmořské pralesy se ani nezachvěly
 
 Podmořské pralesy se ani nezachvěly, 
@@ -31,3 +33,5 @@ v dalekých vodách moře, v mysech Tajemství… 
 A v sadech korálů, jež slabě zrůžověly, 
 
 se černé stíny nedočkavě tísnily a chvěly…
+
+</section>

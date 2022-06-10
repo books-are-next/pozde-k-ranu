@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Modlitba
 
 O Bože tichý, silný, mlčelivý, 
@@ -35,3 +37,5 @@ jak žaluje Ti z černých očí mých – 
 o Bože tichý, silný, mlčelivý 
 
 a zádumčivý v nocích tajemných.
+
+</section>
