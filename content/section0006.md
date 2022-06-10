@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Svou violu jsem naladil co možno nejhlouběji
 
 Svou violu jsem naladil co možno nejhlouběji 
@@ -45,3 +47,5 @@ Mé tenké prsty po strunách vždy nervosně se chvějí, 
 když tichý doprovod svůj pozdě za večera pěji… 
 
 Svou violu jsem naladil co možno nejhlouběji.
+
+</section>

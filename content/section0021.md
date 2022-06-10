@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Záhada
 
 Ač pozdě v noci na náměstí, ušlí, dorazili – 
@@ -25,3 +27,5 @@ když ještě nepřišel, a nad střechami hvězdy bledly… 
 A slíbivše jen dáti o tom zprávu v rodných krajích, 
 
 zas rozešli se na Sever a na Západ a na Jih…
+
+</section>

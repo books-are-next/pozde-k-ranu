@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Dva hlasy
 
 Dnes dvorce ani po klekání nezavřeli – 
@@ -29,3 +31,5 @@ Dva hlasy se v nich dlouho mezi sebou přely, 
 až hlas, jenž prosil, zaúpěl a náhle stich, 
 
 a hlas, jenž chtěl své: ano, z hluboka si vzdych.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Subtilnost smutku
 
 _Předmluva_
@@ -61,3 +63,5 @@ Neskonalý smutek po něčem nevyjádřeném, co viděl stále unikati, prochvě
 Zpíval mu teď tím svým altovým, blahoslaveně tichým hlasem miniteusní a nádhernou pohřební féerii v nových rythmech, zachovávajících však loyalitu vymřelých rodů, zbožně otvíraje chorobné bohatství svých tenkých rtů… V téže ztrnulé pose polokleče, pololeže, na svých dlouhých a fialově průhledných prstech hedvábně lesklou a ještě vlažnou jeho mrtvolu s bílým křížem na zhubenělém zadku…
 
 A moře mu hučelo tam odněkud z dola, z hluboka, demonstrativní a nizounce váhavou, celkem však přec jen lhostejnou hranu.
+
+</section>

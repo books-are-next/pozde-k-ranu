@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Měl něhu jejich kroků…
 
 Měl něhu jejich kroků a teplo jejich těl, 
@@ -27,3 +29,5 @@ Měl něhu jejich kroků a teplo jejich těl, 
 když teprv pozdě k ránu vál přes můj Archipel, 
 
 kdy měsíc dlouho chvěl se, něž do vln zacházel.
+
+</section>
