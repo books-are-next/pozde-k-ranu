@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: poetry
 ---
 
 # Svou violu jsem naladil co možno nejhlouběji
