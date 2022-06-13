@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hlavacek-pozde-k-ranu-2bd77eb",
-  "revision": "2bd77eb",
+  "identifier": "hlavacek-pozde-k-ranu-eb33749",
+  "revision": "eb33749",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -42,8 +42,8 @@
     "section0028.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:09:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949369671
+    "date": "Mon Jun 13 2022 21:57:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157462824
   },
   "documents": [
     {

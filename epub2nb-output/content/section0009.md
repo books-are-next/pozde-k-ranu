@@ -14,6 +14,10 @@ a polibek Tvůj byl ač delikátní, přece jen mdlý… 
 
 v té noci březnové Tvou zahradou jsem pozdě k ránu šel. 
 
+</section>
+
+<section>
+
 A středem záhonů, jež přes noc rudě vzkvetly mi 
 
 já ved Tě znavenou; jen jednoho mi bylo žel: 
@@ -21,6 +25,10 @@ já ved Tě znavenou; jen jednoho mi bylo žel: 
 proč já tu neměl štěstí býti mezi prvními, 
 
 proč někdo přede mnou již tady vedle Tebe šel? 
+
+</section>
+
+<section>
 
 Tak pozdě bylo… Loutna zmlkla v okně ospalá, 
 
@@ -30,6 +38,10 @@ i za řekou to rozpustilé: trala, tralala… 
 
 i rythmus, cupot, tleskání a chřestot černých skel. 
 
+</section>
+
+<section>
+
 To byla jarní slavnost našich věrných pastýřek, 
 
 – já rozechvěn a zmaten dneska ani nevzpomněl, 
@@ -37,6 +49,10 @@ To byla jarní slavnost našich věrných pastýřek, 
 že po pěšinách tančily a podél ztichlých řek 
 
 a jemné měly kadeře a plavé kolem čel. 
+
+</section>
+
+<section>
 
 Za noci březnové Tvou zahradou jsem pozdě k ránu šel, 
 

@@ -18,6 +18,10 @@ Sedí v ní na dně sličný cretin (nelitujte!) vybraného a delikátního mozk
 
 Zpívá to jeho táhlá duše štíhlá a stonavá, bloudíc tam někde nahoře po tom setřelém, do rudohněda již spáleném zlatě – a ústa a sluch o tom neví… Zpívá stále tuže beznadějnou, svrchovaně naivní balladu vzácné průhlednosti, v jejíž dvou slokách plochá jeho básnická hlava vyzpívala před lety ve chvílích zajetí všechen svůj delikátní smutek nad ztrátou svého jediného Přítele…
 
+</section>
+
+<section>
+
 _Sklon intelligenta k pavoučímu charakteru_
 
 Hallucinace malého ztlumeného světla uprchla zmateně do neplodné, studené tmy, zlekána tou tiše zvoněnou hranou reality… Tvary pozvolna dohasly v tichu… Uvědomoval si zvolna… 
@@ -26,9 +30,17 @@ Jevilo se to pro něj jako záhadně nevysvětlitelné (neb jeho subtilní mozek
 
 A úpění neznámých moří tam z dola, odněkud z hluboka, ze tmy, zvoní teď tence a vytrvale na smrt Pavouka dlouhou, celkem však zcela lhostejnou hranu.
 
+</section>
+
+<section>
+
 _Nezbytný rys z jeho způsobu života_
 
 I sladké soběvyhovění, ač řídké při jeho tělesné slabosti, přec nutné při dlouholetém žaláři, jež zlehka ve fialových závratích občas se dostavovalo, mnoho ztratilo na své bývalé neklidnosti. Bylo to už jen úplné pochopení sama sebe, tiché zbožňování sama sebe v nedostatku jiného smyslného boha. Byl to akt sebepochopení a cudnosti, vlažný muškátový odvar, po němž se přivírají víčka a tělem tiše proběhne pět, šest blaživých záchvěvů… Ztratil všecko násilí na své bývalé lidské surovosti a zuřivosti – jen ze široka rozevřené oči se nezvykle chvěly a údy se tiše podávaly té řídké oběti. Nebyl to již onen rozlícený býk, jenž vrážel do osamocených zahrad, plných čistých lilií, by třísnil svou smrdutou slinou jejich běl – byl to spíše osiřelý infant, vampyrská povaha po svém otci, který zemřel na venerickou nemoc a jenž spojoval tichou cretenii pohlavního šílence s jakýmsi delikátním credem subtilního umělečka.
+
+</section>
+
+<section>
 
 _Vznik jeho utkvělé představy_
 
@@ -40,6 +52,10 @@ Kudy? A sta jiných otázek? Těch pro něj naprosto neexistovalo. Fixní idea p
 
 Živil ho, ošetřoval ho… jen aby mu mohl vykrádati potřebný materiál. A čím dále šel za hranice možnosti státi se v myšlení, cítění a chtění Pavoukem, tím s větší pietou lnul k tomu svému bizarrnímu přátelství a tím více pociťoval celou tíhu svého egoismu.
 
+</section>
+
+<section>
+
 _Jedna z jeho sensací o subtilném_
 
 A nyní mu tedy zemřel ten jeho jediný soudruh, dobrovolný trpitel a problematický spasitel… Nehybně spočívá se žlutě skalenými zraky a s křečovitě zlomenými nohami tady na jeho fialově průhledné dlani. 
@@ -49,6 +65,10 @@ A nyní mu tedy zemřel ten jeho jediný soudruh, dobrovolný trpitel a problema
 A tam za tím úpěním, tam daleko na pustých březích pod věčným šerem – tam je vybranost, důvěrnost, jemnost… Zavřete jen svá znavená víčka, ztište se a slyšte… Gracieusně vinuté akkordy tří prodlužovaných tónů jakýchsi neznámých dechových nástrojů imitují subtilní pochod zapomenuté koledy… Unavený tábor myšlenek řadí se opět v dlouhé pluky… A již tiše jdou, ku předu nakloněny, do neznáma stoupajícím krajem v odměřeném tempu pastýřův a pastýřek. Jdou v mlhavé kraje, v zoufalství půlročních nocí… Jen ztlumený fantom magnetické záře jemně červenými šálami svítí nad lesy, dalekými lesy a zálivy staletého Ticha. Tenké věže vzdálených kostelců smutně se vynořují, zatopeny periodickou potopou. Slaví tam právě výroční den, a zástup krásných Madonn, sestouplých se zlatých plechů pozadí, ponocuje v zámecké kapli na poradě, jež arci trvá příliš dlouho (chtějí ho totiž uvítati zázrakem svých neposkvrněných těl, jež chráněna byla před slípými zraky po několik staletí těžkým, bohatým rouchem středověku, a co zvláštního: vždycky s únavně stereotypními záhyby školy jednoho mistra…). 
 
 Náhle umlkl trojzvučný pochod… Kostelce zatopila opětná potopa… porada na kvap skončena – a zdola tam z hluboka kdesi ze tmy zase vytrvale hučí neznámá moře onu hranu truchlivosti a tichého zoufalství.
+
+</section>
+
+<section>
 
 _Féerie nad mrtvolou_
 
