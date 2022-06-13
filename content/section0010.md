@@ -14,6 +14,10 @@ mé myšlenky, jež z večera již usínaly, 
 
 svým vytím probudí – dva chrti mdlí a zrosení… 
 
+</section>
+
+<section>
+
 Je jisto: půjde opět s kytkou u fleuretu 
 
 a ponese si pro vše v kapsách vonnou šarpii, 
@@ -21,6 +25,10 @@ a ponese si pro vše v kapsách vonnou šarpii, 
 bez bázně, hany, úsměv kolem retu, 
 
 jak Bayard chodil v duell pro běloučkou Marii. 
+
+</section>
+
+<section>
 
 Ač na dnešek ho sami zase vyzývali, 
 

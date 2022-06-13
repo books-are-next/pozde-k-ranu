@@ -16,6 +16,10 @@ kterou jsem nikdy doposud nešel, 
 
 když jsem ho shléď… 
 
+</section>
+
+<section>
+
 Mihl se nízko a tiše nade mnou 
 
 v bledých barvách jemné a staré lithografie. 
@@ -73,6 +77,10 @@ až jejich bílým masem proběhne jeho přítomnost 
 a až jeho lepkavý, drsný jazyk v bolestném pocitu na ňadrech 
 
 jim zatrhá sladce chorými víčky očí zanícených. 
+
+</section>
+
+<section>
 
 Démone tajemných nocí, nocí se zlatou skvrnou měsíce, 
 

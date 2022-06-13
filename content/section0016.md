@@ -12,6 +12,10 @@ z příkopů našeho Kastelu, pečlivě uzamčeného? 
 
 Chvilkami volala do našich zavřených okenic: hola ! ! … 
 
+</section>
+
+<section>
+
 Byla tak tichá noc venku – po chodbách Kastelu mrtvo, 
 
 jen srdce tak bázlivě v komnatě poslední v modlitbách bilo 
@@ -21,6 +25,10 @@ jak rodinný vězeň, když v podzemí otcovských hradů 
 vyhublým prstem svým chvilkami bojácně 
 
 zaklepá do zdí… 
+
+</section>
+
+<section>
 
 Byla tak tichá noc měsíčná venku, kdy měla nastati krise 
 
@@ -38,11 +46,19 @@ Neslyšným, loudavým krokem k truchlivé Samaří naše, 
 
 ode všech živoucích dávno již opuštěné… 
 
+</section>
+
+<section>
+
 Slyšela's, duše má, její krok zloudaný zdola, 
 
 z příkopů našeho Kastelu, pečlivě uzamčeného? 
 
 Chvilkami volala do našich zavřených okenic: hola!! … 
+
+</section>
+
+<section>
 
 Přijíti musila, 
 
@@ -72,6 +88,10 @@ slávu a věhlas 
 
 mých předků… 
 
+</section>
+
+<section>
+
 Ti všichni již odešli… 
 
 V noci jen bloudí po ztichlých chodbách a visutých mostech 
@@ -91,6 +111,10 @@ v nádherných ceremoniellech církevních sněmů, 
 latinou přisluhujícím biskupem italsky vyslovovanou… 
 
 Matky mých zženštilých ctností! 
+
+</section>
+
+<section>
 
 Otci mých dědičných hříchů! 
 
@@ -135,6 +159,10 @@ jak po cestách předků mých kráčel… 
 Otcové hříchů mých! 
 
 Matky mých ctností! 
+
+</section>
+
+<section>
 
 Slyšíte její krok zloudaný zdola? – – – 
 

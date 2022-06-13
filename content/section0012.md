@@ -26,6 +26,10 @@ tvůj abbé schvácen akutní je nervosou 
 
 a sličné markýze je dlouhou chvílí mdlo. 
 
+</section>
+
+<section>
+
 Dal's hazardně své nyvé srdce do karty 
 
 (ach, příliš, příliš brzo tepat ustalo), 
@@ -37,6 +41,10 @@ tvé nespustila už ze svého oka rty – 
 a abbé! – ironisoval svým věčným: tral, la, lo – 
 
 mon cher, oh, tes violons sont partis… 
+
+</section>
+
+<section>
 
 Tvé místo v herně Lásky prázdné zůstalo, 
 

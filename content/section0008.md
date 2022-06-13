@@ -14,6 +14,10 @@ a v ztlumeném tom svitu lampy stažené 
 
 má všecko kontury tak do mdla zamžené. 
 
+</section>
+
+<section>
+
 A duše zlákána svou fixní ideou 
 
 (hod cudný slavit ve svém Paláci), 
@@ -21,6 +25,10 @@ A duše zlákána svou fixní ideou 
 vstříc do mlh vybíhá – a s dary na rukou – 
 
 však tesklivě se zpět vždy navrací. 
+
+</section>
+
+<section>
 
 V podzimní šero, slabě zamžené, 
 
